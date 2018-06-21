@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Escape From the Earth\Assets\UltimateKit\C# Scripts\SoundManagerCS.cs">
+    <Files>
+      <File FileName="..\Escape From the Earth\Assets\UltimateKit\C# Scripts\SoundManagerCS.cs" Line="202" Column="14" />
+      <File FileName="..\Escape From the Earth\Assets\UltimateKit\Scripts\EnemyController.js" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
